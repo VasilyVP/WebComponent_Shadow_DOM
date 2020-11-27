@@ -1,0 +1,15 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Widget.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vasily",
+  "license": "ISC"
+}
